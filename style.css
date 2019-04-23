@@ -1,0 +1,29 @@
+        p {
+            width: 80% !important; 
+            text-align:justify
+        }
+
+        hr {
+            width: 20%;
+            text-align: left;
+            margin-left: 0;
+            border: 1px red solid; 
+        }
+
+        .color-grey {
+            color: grey !important;
+        }
+
+        #articles {
+            background-color: aquamarine;
+        }
+
+        #contacts{
+            background-color: aquamarine;
+            margin-bottom: 32px;
+        }
+
+        #contacts p {
+            text-align: center;
+            font-size: 15pt;
+        }
